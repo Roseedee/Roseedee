@@ -1,10 +1,12 @@
-## Hi there 👋
+# 💻 I'am Dee
 
-<div class="container" style="
-  width: 100%;
-  height: auto;
-  background-color: black;"
->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Roseedee&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roseedee&layout=compact&theme=buefy&hide_border=true" />
-</div>
+## 📊 GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseedee&show_icons=true)
+
+## 🚀 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roseedee&layout=compact)
+
+## 🛠️ Tools & Technologies
+- 💻 Languages: `C++`, `C#`, `Python`, `Go`, `Kotlin`, `Dart`, `C++`
+
+### 🌟 Thanks for Visiting!
